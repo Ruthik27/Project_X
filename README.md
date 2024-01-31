@@ -21,3 +21,5 @@ This work paves the way for future advancements in AIassisted
 predictive modeling for a range of practical uses,
 in addition to advancing image transformation through AI
 in the context of crisis management.
+
+<img width="774" alt="Screenshot 2024-01-30 at 8 26 26 PM" src="https://github.com/Ruthik27/Project_X/assets/62241739/888b48f2-dd62-4daf-9fed-bf16ed840dcf">
